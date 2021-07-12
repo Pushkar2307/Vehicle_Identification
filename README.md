@@ -1,6 +1,4 @@
-# Vehicle_Identification
-
-# Age_Gender_Prediction
+# Vehicle Identification
 
 # Project Description
 
